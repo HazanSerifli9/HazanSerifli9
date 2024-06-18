@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hazan and I'm a Jr Frontend Dev and Jr. Data Analyst, from Azerbaijan</p>
+<p align="left">My name is Hazan and I'm a Jr. Data Analyst, from Azerbaijan</p>
 
 ###
 
