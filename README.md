@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Become a good Data Analyst<br>🎲 Fun fact: I love cat 😅</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Become a good Sport Data Analyst<br>🎲 Fun fact: I love cat 😅</p>
 
 ###
 
