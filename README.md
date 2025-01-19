@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br><br>🎯 Goals: Become a good Sport Data Analyst<br>🎲 Fun fact: I love analysis the football stats 😅</p>
+<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: Become a good Sport Data Analyst<br>🎲 Fun fact: I love analysis the football stats 😅</p>
 
 ###
 
